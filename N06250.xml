@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007925_0000_103015455C16B450"/>
-            <pb facs="tcp:007925_0001_1030153CAFFBA160"/>
+            <pb facs="unknown:007925_0000_103015455C16B450"/>
+            <pb facs="unknown:007925_0001_1030153CAFFBA160"/>
             <p>PROCEEDINGS AND TREATY WITH The <hi>Shawanese, Nanticokes,</hi> and <hi>Mohikander</hi> INDIANS, LIVING At <hi>Otsiningo,</hi> on one of the West Branches of the Susquehanna River.</p>
             <p>NEGOTIATED At <hi>Fort-Johnson,</hi> in the County of <hi>Albany,</hi> in the Province of <hi>NEW-YORK</hi>; BY The Honourable Sir <hi>William Johnson,</hi> Bart. <hi>&amp;c.</hi>
             </p>
@@ -123,7 +123,7 @@
       </front>
       <body>
          <div type="proceedings">
-            <pb n="iii" facs="tcp:007925_0002_10301529649A02A8"/>
+            <pb n="iii" facs="unknown:007925_0002_10301529649A02A8"/>
             <head>
                <hi>FORT-JOHNSON, 14th April 1757,</hi> P. M.</head>
             <p>
@@ -265,7 +265,7 @@
                <floatingText xml:lang="eng">
                   <body>
                      <div type="speech">
-                        <pb n="iv" facs="tcp:007925_0003_102E02DE27356E08"/>
+                        <pb n="iv" facs="unknown:007925_0003_102E02DE27356E08"/>
                         <opener>
                            <salute>Brother,</salute>
                         </opener>
@@ -403,7 +403,7 @@
                </gap>d to finish Business with them to Day, and would To-morrow speak to them and their People.</p>
          </div>
          <div type="proceedings">
-            <pb n="5" facs="tcp:007925_0004_102E02E05FF175B0"/>
+            <pb n="5" facs="unknown:007925_0004_102E02E05FF175B0"/>
             <head>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
@@ -483,7 +483,7 @@
             <p>Last Summer I held a Meeting, and entered into a Treaty in this Coun<g ref="char:EOLhyphen"/>cil Room, with the <hi>Shawanese</hi> King, now present; and with the King of the <hi>Delawares,</hi> settled at <hi>Tia<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>go.</hi> This Treaty I sent Home to the Great King, your Father; here it is printed, that all your <hi>Brethren,</hi> the <hi>English,</hi> on this Continent, may know what past; and what Agreements we have
-<pb n="6" facs="tcp:007925_0005_1030152EEA603888"/>
+<pb n="6" facs="unknown:007925_0005_1030152EEA603888"/>
 entered into. The Great GOD above is a Lover of Truth and Sincerity, he will send his Vengeance down on that People or Nation who deceive each other with Words of Peace and Friendship, when their Hearts speak War, and their Tongues utter Lies. You will find that the <hi>English</hi> will faithfully observe their Parts of this Treaty; and I hope, and doubt not, but your People will strictly observe the Engagements they solemnly bound themselves to. By this Belt I expect all you who are now present, will do the same on your Parts. <hi>Gave a Belt.</hi>
             </p>
             <p>
@@ -505,7 +505,7 @@ entered into. The Great GOD above is a Lover of Truth and Sincerity, he will sen
             <p>If the <hi>Indians</hi> do not return to their Senses, they will see and feel when it is too late, that they have ruined themselves, enslaved their Posterity, and lost their Country<g ref="char:punc">▪</g>
             </p>
             <p>
-               <pb n="7" facs="tcp:007925_0006_103015306C5146A0"/>They will find their Country fortified by the <hi>French,</hi> not against the <hi>English,</hi> but against the <hi>Indians</hi> themselves.</p>
+               <pb n="7" facs="unknown:007925_0006_103015306C5146A0"/>They will find their Country fortified by the <hi>French,</hi> not against the <hi>English,</hi> but against the <hi>Indians</hi> themselves.</p>
             <p>
                <hi>Brethren,</hi>
             </p>
@@ -553,7 +553,7 @@ entered into. The Great GOD above is a Lover of Truth and Sincerity, he will sen
                   </gap>ctady.</hi> A <hi>River,</hi> or <hi>Mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ckander Indian,</hi> was shot by a Soldier; who says the <hi>Indian</hi> first laid hold of him, abused and threatened him. The Soldier is in Confinement, will be tried, and if found guilty, will suffer. I am very sorry for this Misfortune, but there is no re<g ref="char:EOLhyphen"/>calling the Dead. All therefore that I can do, is to condole with you on
-<pb n="8" facs="tcp:007925_0007_102E02E81947C188"/>
+<pb n="8" facs="unknown:007925_0007_102E02E81947C188"/>
 this Occasion according to your Customs, and cover his Grave with these Blankets, Strouds and Stockings; and with these Handkerchiefs to dry up the Tears of his Friends and Relations. And I hope, that after this, as the Soldier is confined, you will rest easy and satisfied in your Minds, as no<g ref="char:EOLhyphen"/>thing more could be done if the same Accident had happened to me.</p>
             <p>
                <hi>Here the above Goods were delivered; and after a Glass of Rum round, to drink the King's Health, the Meeting broke up.</hi>
@@ -599,7 +599,7 @@ this Occasion according to your Customs, and cover his Grave with these Blankets
             </p>
             <p>If you are prepared to hear us, please to listen to what we have to say:</p>
             <p>
-               <pb n="9" facs="tcp:007925_0008_102E02EA4FF61328"/>Sir <hi>William</hi> said he was ready, and would be attentive.</p>
+               <pb n="9" facs="unknown:007925_0008_102E02EA4FF61328"/>Sir <hi>William</hi> said he was ready, and would be attentive.</p>
             <p>
                <hi>Brother,</hi>
             </p>
@@ -639,7 +639,7 @@ this Occasion according to your Customs, and cover his Grave with these Blankets
             </p>
             <p>You have also told us, that the Great King, our Father, over the Sea, offered us, by you, his Hand of Favour and Protection; we lay fast hold of it, and will not quit it so long as the World endures.</p>
             <p>
-               <pb n="10" facs="tcp:007925_0009_102E02EBEBA28840"/>
+               <pb n="10" facs="unknown:007925_0009_102E02EBEBA28840"/>
                <hi>Brother,</hi>
             </p>
             <p>You <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -725,7 +725,7 @@ this Occasion according to your Customs, and cover his Grave with these Blankets
             <p>The Meeting then broke up.</p>
          </div>
          <div type="proceedings">
-            <pb n="11" facs="tcp:007925_0010_102E02EF1988BE40"/>
+            <pb n="11" facs="unknown:007925_0010_102E02EF1988BE40"/>
             <head>
                <hi>FORT-JOHNSON, 22</hi>d April, <hi>1757.</hi> PRESENT, as Yesterday. Sir <hi>WILLIAM JOHNSON</hi>'s Second <hi>SPEECH</hi> to the aforesaid INDIANS.</head>
             <opener>
@@ -760,7 +760,7 @@ this Occasion according to your Customs, and cover his Grave with these Blankets
             </p>
             <p>As you have now, in Behalf of yourselves and all your People, laid hold of the Covenant Chain of Peace and Friendship with the Great King of <hi>England,</hi> my Master, and called the Great GOD above to witness, that you do sincerely intend, and firmly resolve<g ref="char:punc">▪</g> that you will hereafter behave to all his Subjects as fast Friends and loving Brethren; into which Covenant Chain I have taken you all, your Wives and Children—Therefore, lest you may have forgot what was meant by the Covenant Chain, in old Times, I will briefly remind you of its Obligations.</p>
             <p>When the <hi>Indians,</hi> your Fore-fathers, first made this Covenant Chain with the <hi>English</hi>—both Parties engaged to keep the Ends of it fast in their Hands—that they would take great Care to keep it from breaking, or from getting any Rust or Filth upon it—that they would be as one Flesh and one Blood, so that if any Enemy should intend to hurt or strike one Party,
-<pb n="12" facs="tcp:007925_0011_103014F959A72768"/>
+<pb n="12" facs="unknown:007925_0011_103014F959A72768"/>
 the other should immediately give him Notice, rise up and help him; and that a good Road should always be kept open between their Habitations, that when they might call for each other's Assistance, they could easily and speedily come.</p>
             <p>
                <hi>Brethren,</hi>
@@ -799,7 +799,7 @@ the other should immediately give him Notice, rise up and help him; and that a g
                <hi>Brother,</hi>
             </p>
             <p>We like the Comparison—we have spoke to you from our Hearts, and
-<pb n="13" facs="tcp:007925_0012_1030153F0BF8F4E8"/>
+<pb n="13" facs="unknown:007925_0012_1030153F0BF8F4E8"/>
 we hope good Fruit will come from thence. On our Parts, we truly mean what our Tongue hath spoken, and we doubt not, but you will, on your Side, be as a fruitful Tree to us. <hi>Gave two Strings of Wampum.</hi>
             </p>
             <p>
@@ -849,7 +849,7 @@ we hope good Fruit will come from thence. On our Parts, we truly mean what our T
             </p>
             <p>We have forgot something of Consequence, which we desire may be wrote down.</p>
             <p>
-               <pb n="14" facs="tcp:007925_0013_103015430EC0BFA8"/>
+               <pb n="14" facs="unknown:007925_0013_103015430EC0BFA8"/>
                <hi>Brother,</hi>
             </p>
             <p>We are now become, as was said, One-People: Whenever, therefore, your People and ours may meet in the Woods or elsewhere, we expect they shall shake Hands and smoke together as loving <hi>Brethren</hi>: And as we shall on our Parts, publish all that hath past here, to all our absent People and Friends, we hope, and desire you will do the same to yours, that none may be ignorant, that from this Day forward, and forever, we are Brothers, Friends and Allies; and engaged on all Occasions, to love and assist each other.</p>
